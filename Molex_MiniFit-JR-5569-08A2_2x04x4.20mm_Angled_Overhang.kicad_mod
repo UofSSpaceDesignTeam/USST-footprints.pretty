@@ -1,4 +1,4 @@
-(module Molex_MiniFit-JR-5569-08A2_2x04x4.20mm_Angled_Overhang (layer F.Cu) (tedit 5881AB7B)
+(module Molex_MiniFit-JR-5569-08A2_2x04x4.20mm_Angled_Overhang (layer F.Cu) (tedit 5AD79A04)
   (descr "Molex Mini-Fit JR, PN:5569-08A2, dual row, side entry type, through hole, with plastic peg mount")
   (tags "connector molex mini-fit 5569")
   (fp_text reference P9 (at 6.3 8.5) (layer F.SilkS)
@@ -38,6 +38,8 @@
   (pad 6 thru_hole circle (at 4.2 5.5) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 8.4 5.5) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 12.6 5.5) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
+  (pad 9 thru_hole circle (at 0 -7.3152) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+  (pad 9 thru_hole circle (at 12.5984 -7.3152) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (model Connectors_Molex.3dshapes/Molex_MiniFit-JR-5569-08A2_2x04x4.20mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
