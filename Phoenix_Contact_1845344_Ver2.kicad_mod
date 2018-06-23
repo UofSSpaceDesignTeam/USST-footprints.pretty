@@ -1,4 +1,4 @@
-(module Phoenix_Contact_1845344 (layer F.Cu) (tedit 5B2EA49E)
+(module Phoenix_Contact_1845344_Ver2 (layer F.Cu) (tedit 5B2EA49E)
   (fp_text reference "BATTERY POWER INPUT" (at -9.483 -7.034 270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
